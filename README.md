@@ -1,6 +1,6 @@
 # 🐍 Python for Data Science — Learning Journey
 
-Welcome to my personal repository where I document my full journey of learning **Python for Data Science**! by **freeCodeCamp.org🚀
+Welcome to my personal repository where I document my full journey of learning **Python for Data Science**! by ***freeCodeCamp.org***🚀
 
 This repo follows a detailed course that introduces Python from scratch and gradually builds up to powerful data science libraries like **NumPy**, **Pandas**, and **Matplotlib**, finishing with a real-world project: a **COVID-19 Trend Analysis Tool**.
 
